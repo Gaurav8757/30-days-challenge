@@ -14,6 +14,10 @@
 ### 3. Task-1 to Task-9 done
 ##### loops
 
-# DAY - 5 pending
+# DAY - 5 COMPLETED
 ### 3. Task-1 to Task-10 done
 ##### functions
+
+# DAY - 6 COMPLETED
+### 3. Task-1 to Task-13 done
+##### arrays
