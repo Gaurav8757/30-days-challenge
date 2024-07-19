@@ -21,3 +21,7 @@
 # DAY - 6 COMPLETED
 ### 3. Task-1 to Task-13 done
 ##### arrays
+
+# DAY - 7 COMPLETED
+### 3. Task-1 to Task-13 done
+##### objects
