@@ -25,3 +25,7 @@
 # DAY - 7 COMPLETED
 ### 3. Task-1 to Task-13 done
 ##### objects
+
+# DAY - 8 COMPLETED
+### 3. Task-1 to Task-9 done
+##### ES6+ Features Added
